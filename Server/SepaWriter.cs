@@ -27,6 +27,7 @@ using System.Globalization;
 using System.Xml;
 using System.IO;
 using System.Text;
+using Ict.Common.IO;
 
 namespace Ict.Petra.Plugins.SEPA
 {
